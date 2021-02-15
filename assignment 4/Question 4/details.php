@@ -16,8 +16,6 @@ include('connect.php');
 				<th>E-Mail</th>
 				<th>Gender</th>
 				<th>City</th>
-				<th>Edit</th>
-				<th>Delete</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -30,10 +28,6 @@ include('connect.php');
 				<td><?php echo $row['email']?></td>
 				<td><?php echo $row['gender']?></td>
 				<td><?php echo $row['city']?></td>
-				<td><a href="edit.php?id=<?php echo $row['id']?>">
-				<input type="button" value="Edit"></a></td>
-				<td><a href="delete.php?id=<?php echo $row['id']?>">
-				<input type="button" value="Delete"></a></td>
             </tr>
            <?php } ?>
 		</tbody>
