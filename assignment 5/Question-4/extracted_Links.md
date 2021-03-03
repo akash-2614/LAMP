@@ -9,16 +9,10 @@ links.length
 55
 
 links[0]
-
-<!--
-<a role="menuitem" class="_42ft _4jy0 _55pi _2agf _4o_4 _63xb _p _4jy3 _517h _51sy" href="#" style="max-width:200px;" aria-haspopup="true" aria-expanded="false" rel="toggle" id="u_0_a_uH"><span class="_55pe">Sections of this page</span><span class="_4o_3 _3-99"><i class="img sp_DPyXVliY-x6 sx_19ceca"></i></span></a>
--->
+< a role="menuitem" class="\_42ft \_4jy0 \_55pi \_2agf \_4o_4 \_63xb \_p \_4jy3 \_517h \_51sy" href="#" style="max-width:200px;" aria-haspopup="true" aria-expanded="false" rel="toggle" id="u_0_a_uH">< span class="\_55pe">Sections of this page</>< span class="\_4o_3 \_3-99">< i class="img sp_DPyXVliY-x6 sx_19ceca"></></></>
 
 links[4]
-
-<!--
-<a aria-label="Close" class="layer_close_elem accessible_elem" href="#" role="button" id="u_0_4_Tq" aria-labelledby="u_0_4_Tq u_0_3_/G" tabindex="-1"></a>
--->
+< a aria-label="Close" class="layer*close_elem accessible_elem" href="#" role="button" id="u_0_4_Tq" aria-labelledby="u_0_4_Tq u_0_3*/G" tabindex="-1"></>
 
 // To print all links use for loop
 
